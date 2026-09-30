@@ -37,4 +37,7 @@ Expected output: `Hello and welcome!` followed by a count to 5.
 - Added the Github Actions
 
 ![workflow](https://github.com/Stevie279/devops/actions/workflows/main.yml/badge.svg)
+
 [![Releases](https://img.shields.io/github/release/Stevie279/devops/all.svg?style=flat-square)](https://github.com/Stevie279/devops/releases)
+
+![develop build](https://img.shields.io/github/actions/workflow/status/Stevie279/devops/main.yml?branch=develop&style=flat-square&label=develop%20build)

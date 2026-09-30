@@ -32,3 +32,6 @@ Expected output: `Hello and welcome!` followed by a count to 5.
 - [ ] Lab 02 — Continuous Integration
 - [ ] Lab 03a — Requirements and Issues
 - [ ] Lab 03b — Use Cases
+
+## Notes:
+- Added the Github Actions
